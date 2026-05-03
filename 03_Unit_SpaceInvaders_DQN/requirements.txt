@@ -1,0 +1,4 @@
+stable-baselines3
+rl_zoo3
+gymnasium[atari]
+gymnasium[accept-rom-license]
